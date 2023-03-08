@@ -1,0 +1,11 @@
+.containerWrapper {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.mainContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
